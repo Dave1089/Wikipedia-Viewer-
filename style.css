@@ -1,0 +1,18 @@
+body{background-color:#092B40;font-family:"Helvetica Neue", Roboto, "Segoe UI", Calibri, sans-serif;}
+.top-bar{background-color:#343434;}
+#wikiSearch{width:300px;color:black;font-weight:bold;}
+.main{margin-top:70px;}
+.wrapper{
+	width:70%;
+	margin: 0 auto;
+	}
+.wrapper ul li{
+	text-align:left;
+	word-wrap: break-word;
+	margin-top:15px;
+	padding:5px 25px 10px 25px;
+	color:black;
+	background-color:lightgrey;
+	}
+a:hover{text-decoration:none;}
+.liEffect:hover{background-color:white;border-color:grey;}
